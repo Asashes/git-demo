@@ -1,2 +1,4 @@
-ver1.0
+ver1.2
 include func1
+include func2
+
